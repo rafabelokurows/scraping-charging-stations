@@ -1,1 +1,1 @@
-# Scraping charging stations from Europe with R
+# Scraping (hopefully) European EV charging stations with R
